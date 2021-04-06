@@ -15,18 +15,29 @@ The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multip
 
 # Working structure of the methodology
 Step-1: Link colab environment with google drive.
+
 Step-2: Kaggle dataset imported into colab environment through google drive.
+
 Step-3: Load the required libraries
+
 Step-4: Loding the data into working environment
+
 Step-5: Obtain summarization of the data, in otherwords, Descriptive Statistics of the data.
+
 Step-6: Checking the existence of NULL values in the dataset. If they exist, replace or delete them (In this case there are no NULL values)
+
 Step-7: Visua;lize the data using box-plot and histogram to identify the outliers and distribution of the data.
+
 Step-8: Pre process the data. This Step includes
         Dividing the dataset into independent(X) data and dependent(Y) data.
         Divide both X and Y into training and testing datsets.
+
 Step-9: Build the classification models using various ML methodologies such as logistic regression, decision tree, KNN, naive bayes, linear discriminent analysis, and support             vector machine.
+
 Step-10: Compare the models using their corresponding accuracies
+
 Step-11: Evaluate and predict the models using test dataset.
+
 Step-12: Model can be saved using pickle library.
 
 # Utilized libraries
