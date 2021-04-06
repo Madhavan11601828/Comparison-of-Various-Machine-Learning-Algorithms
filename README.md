@@ -30,8 +30,8 @@ Step-11: Evaluate and predict the models using test dataset.
 Step-12: Model can be saved using pickle library.
 
 # Utilized libraries
-NUMPY
-PANDAS
-PICKLE
-SKLEARN
-MATPLOTLIB
+- NUMPY: Images will be stored and processed as numbers. These are taken as arrays. Usually, everyone utilize NUMPY to deal with arrays. [NUMPY](https://numpy.org/) [Wikipedia](https://en.wikipedia.org/wiki/NumPy)
+- PANDAS:
+- PICKLE:
+- SKLEARN:
+- MATPLOTLIB: Imported for the purpose of visualization and plotting. In this aspect, It is imported to plot the images. [MATPLOTLIB](https://matplotlib.org/) [Wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
