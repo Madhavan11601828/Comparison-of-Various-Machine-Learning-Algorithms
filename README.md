@@ -46,3 +46,12 @@ Step-12: Model can be saved using pickle library.
 - PICKLE: The pickle module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy. Pickling (and unpickling) is alternatively known as “serialization”, “marshalling,” 1 or “flattening”. [Pickle documents](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy.) [pickle](https://realpython.com/python-pickle-module/)
 - SKLEARN: It is short form for Sci-Kit Learn. It is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. [SKLearn](https://scikit-learn.org/stable/) [Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
 - MATPLOTLIB: Imported for the purpose of visualization and plotting. In this aspect, It is imported to plot the images. [MATPLOTLIB](https://matplotlib.org/) [Wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
+
+# Machine Learning Algorithms Utilized
+
+1. Logistic Regression
+2. K-Nearest Neighbor
+3. Naive-Bayes
+4. Decision Tree
+5. Support Vector Machine
+6. Linear Discriminent Analysis
